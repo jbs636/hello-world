@@ -1,2 +1,3 @@
 # hello-world
 hello world, first attempt to write a github for the new mycroft
+just trying to teach myself how to do all this....
